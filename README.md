@@ -61,7 +61,7 @@ Contributions to this project are welcome! Please follow these steps:</br>
 **1.Fork the Repository.</br>**
 **2.Create a New Branch:**
 
-git checkout -b feature/your-feature
+git checkout -b feature/your-feature</br>
 **3.Make Your Changes and Commit:**
 
 git add .</br>
