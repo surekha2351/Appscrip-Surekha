@@ -59,18 +59,21 @@ package.json - Contains project metadata and dependencies.</br>
 Contributions to this project are welcome! Please follow these steps:</br>
 
 **1.Fork the Repository.</br>**
+
 **2.Create a New Branch:**
-
 git checkout -b feature/your-feature</br>
-**3.Make Your Changes and Commit:**
 
+**3.Make Your Changes and Commit:**
 git add .</br>
 git commit -m "Add your feature"</br>
+
 **4.Push to the Branch:**
 git push origin feature/your-feature</br>
+
 **5.Create a Pull Request.**
+
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contact**
-For any questions or issues, please contact Your Name.
+For any questions or issues, please contact Surekha 👉(https://www.linkedin.com/in/surekha-yerrabatti/).
